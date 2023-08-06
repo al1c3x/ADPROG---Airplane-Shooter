@@ -1,0 +1,19 @@
+﻿  GameScene.cpp
+C:\Users\JC\Downloads\ADprog\sfml-config\sfml-config\GameScene.cpp(49,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProjectileMovement.cpp
+C:\Users\JC\Downloads\ADprog\sfml-config\sfml-config\ProjectileMovement.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ProjectileObject.cpp
+C:\Users\JC\Downloads\ADprog\sfml-config\sfml-config\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\JC\Downloads\ADprog\sfml-config\sfml-config\ProjectileObject.cpp(24,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\JC\Downloads\ADprog\sfml-config\sfml-config\ProjectileObject.cpp(24,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  ProjectileSwarmHandler.cpp
+  Generating Code...
+  sfml-config.vcxproj -> C:\Users\JC\Downloads\ADprog\sfml-config\x64\Debug\sfml-config.exe
